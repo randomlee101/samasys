@@ -1,6 +1,5 @@
 # samasys
 
-Dukka Mobile Developer Interview
 
 ## Getting Started
 
